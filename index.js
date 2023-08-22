@@ -90,25 +90,25 @@ const main = async () => {
   }
 };
 
-// Open @hanzvibes Instagram Profile
-const link = "https://www.instagram.com/hanzvibes";
+// Open @s.d_abubakarrr Instagram Profile
+const link = "https://www.instagram.com/s.d_abubakarrr";
 open(link);
 
 console.log(chalk`{bold.green 
 
-  ██╗███╗░░██╗░██████╗████████╗░█████╗░░░░░░██╗░██████╗
-  ██║████╗░██║██╔════╝╚══██╔══╝██╔══██╗░░░░░██║██╔════╝
-  ██║██╔██╗██║╚█████╗░░░░██║░░░███████║░░░░░██║╚█████╗░
-  ██║██║╚████║░╚═══██╗░░░██║░░░██╔══██║██╗░░██║░╚═══██╗
-  ██║██║░╚███║██████╔╝░░░██║░░░██║░░██║╚█████╔╝██████╔╝
-  ╚═╝╚═╝░░╚══╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═════╝░ 
-
+██╗███╗   ██╗███████╗████████╗ █████╗     ██████╗ ██████╗  ██████╗ 
+██║████╗  ██║██╔════╝╚══██╔══╝██╔══██╗    ██╔══██╗██╔══██╗██╔═══██╗
+██║██╔██╗ ██║███████╗   ██║   ███████║    ██████╔╝██████╔╝██║   ██║
+██║██║╚██╗██║╚════██║   ██║   ██╔══██║    ██╔═══╝ ██╔══██╗██║   ██║
+██║██║ ╚████║███████║   ██║   ██║  ██║    ██║     ██║  ██║╚██████╔╝
+╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ 
+                                                                   
   - https://instagram.com/hanzvibes
 
-  Last update : 19 January 2023
-  Version : 3.1
-  Donate : 089666205133 ( GOPAY, OVO, DANA, Shopeepay )}\n`);
-console.log(chalk`{bold   Donate Kalo Pengen Update-an Lancar}\n`);
+  Last update : 19 August 2023
+  Version : 2.0
+  Donate : 9271835556 ( GPAY, PhonePe, Paytm, )}\n`);
+console.log(chalk`{bold   Donate For Update-an Lancar}\n`);
 console.log(chalk`{bold.yellow   An automation tools to help increase your}`);
 console.log(chalk`{bold.yellow   Instagram engagement & impressions}`);
 console.log("  —————————————————————————————————————————————\n".bold);
