@@ -1,4 +1,4 @@
-![Logo](https://github.com/sd-abubakar/InstaJS/blob/main/assets/banner3_1.png)
+![Logo](https://github.com/sd-abubakar/InstaPro/blob/main/assets/banner3_1.png)
 
 # InstaJS v3.1
 
@@ -48,12 +48,12 @@ Make sure you have NodeJS installed on your device
 
 Clone this Repository 
 ```bash
-git clone https://github.com/hanzvibes/InstaJS
+git clone https://github.com/sd-abubakar/InstaPro
 ```
 
 Go to InstaJS Folder
 ```bash
-cd InstaJS
+cd InstaPro
 ```
 Install Package Modules
 ```bash
@@ -77,13 +77,13 @@ INSTAGRAM_PASSWORD=your_password
 Auto-set and change delays to simulate human behavior
 ## 📱Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/hanzvibes/InstaJS/main/assets/dashboard.png)
+![App Screenshot](https://raw.githubusercontent.com/hanzvibes/InstaPro/main/assets/dashboard.png)
 
 
 ## Feedback
 
 If you have any feedback, please reach out to me at 🕵️
-- 🌐 [Instagram](https://instagram.com/hanzvibes)
+- 🌐 [Instagram](https://instagram.com/s.d_abubakarrr)
 - 🌐 [Telegram](https://t.me/InstaJS_Official)
 
 
