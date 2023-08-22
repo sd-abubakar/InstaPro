@@ -1,6 +1,6 @@
 ![Logo](https://github.com/sd-abubakar/InstaPro/blob/main/assets/banner3_1.png)
 
-# InstaJS v2.0
+# InstaPro v2.0
 
 It runs as a command line interface on your devices and will interact to Instagram users (configurable). You choose a list of Instagram users whose market you want to target. The bot navigates to each of these, finds the last people and then like, follow & comments each of them (also configurable), it will interact to target users. Simple and effective.
 
@@ -28,7 +28,7 @@ The bot will remember every user it has followed, liked & comments so if you qui
 - Unfollow all following
 - Unfollow account who not following you back
 
-## Changelog v3.1
+## Changelog v2.0
 
 - Auto View Stories
 - Auto Unfollow Inactive user
@@ -51,7 +51,7 @@ Clone this Repository
 git clone https://github.com/sd-abubakar/InstaPro
 ```
 
-Go to InstaJS Folder
+Go to InstaPro Folder
 ```bash
 cd InstaPro
 ```
@@ -77,7 +77,7 @@ INSTAGRAM_PASSWORD=your_password
 Auto-set and change delays to simulate human behavior
 ## 📱Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/hanzvibes/InstaPro/main/assets/dashboard.png)
+![App Screenshot](https://raw.githubusercontent.com/sd-abubakar/InstaPro/main/assets/dashboard.png)
 
 
 ## Feedback
