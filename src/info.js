@@ -7,14 +7,12 @@ print(
   
   Find Bug ? Tell me on
   —————————————————————————————————————————————————————
-  - Facebook   : https://fb.me/4RAEHAN
-  - Instagram  : https://instagram.com/hanzvibes
-  - GitHub     : https://github.com/hanzvibes
+  - Facebook   : https://fb.me/sayyed.babbu.589
+  - Instagram  : https://instagram.com/s.d_abubakarrr
+  - GitHub     : https://github.com/sd-abubakar
   - Telegram   : https://t.me/InstaJS_Official
   —————————————————————————————————————————————————————
   
   Special thanks to :
-  
-  - I Putu Jaya Adi Pranata
   - All members of SGB Team
   \n}`);
