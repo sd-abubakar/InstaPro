@@ -1,6 +1,6 @@
 ![Logo](https://github.com/sd-abubakar/InstaPro/blob/main/assets/banner3_1.png)
 
-# InstaPro v2.0
+# InstaPro v2.0 🚀
 
 It runs as a command line interface on your devices and will interact to Instagram users (configurable). You choose a list of Instagram users whose market you want to target. The bot navigates to each of these, finds the last people and then like, follow & comments each of them (also configurable), it will interact to target users. Simple and effective.
 
