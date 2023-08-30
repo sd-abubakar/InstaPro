@@ -84,7 +84,7 @@ Auto-set and change delays to simulate human behavior
 
 If you have any feedback, please reach out to me at 🕵️
 - 🌐 [Instagram](https://instagram.com/s.d_abubakarrr)
-- 🌐 [Telegram](https://t.me/InstaJS_Official)
+- 🌐 [Telegram](https://t.me/officialinstaPro)
 
 
 ## Credits
